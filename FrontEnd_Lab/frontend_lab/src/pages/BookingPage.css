@@ -1,0 +1,94 @@
+.booking-page {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.booking-form {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 40px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    font-family: "Segoe UI", sans-serif;
+    text-align: left;
+}
+
+    .booking-form h1 {
+        font-size: 2.2rem;
+        margin-bottom: 20px;
+        color: #1d3557;
+        font-weight: 700;
+    }
+
+    .booking-form h2 {
+        font-size: 1.5rem;
+        margin: 12px 0;
+        color: #1d3557;
+        font-weight: 600;
+    }
+
+    .booking-form h3 {
+        font-size: 1.3rem;
+        margin: 10px 0;
+        color: #333;
+        font-weight: 500;
+    }
+
+    .booking-form h4 {
+        font-size: 1.1rem;
+        margin: 8px 0;
+        font-weight: 500;
+        color: #555;
+    }
+
+    .booking-form h5 {
+        font-size: 1rem;
+        margin: 6px 0 12px;
+        font-weight: 400;
+        color: #444;
+    }
+
+    .booking-form label {
+        display: block;
+        margin-top: 20px;
+        color: #333;
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+    .booking-form input {
+        width: 100%;
+        padding: 10px 12px;
+        font-size: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        margin-top: 6px;
+        box-sizing: border-box;
+    }
+
+    .booking-form button {
+        width: 100%;
+        padding: 12px;
+        font-size: 1rem;
+        font-weight: 600;
+        border: none;
+        border-radius: 6px;
+        margin-top: 20px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .booking-form button:hover {
+            opacity: 0.9;
+        }
+
+    .booking-form .back-button {
+        background-color: #8d99ae;
+        color: white;
+        margin-bottom: 10px;
+    }
+
+    .booking-form button:not(.back-button) {
+        background-color: #007bff;
+        color: white;
+    }

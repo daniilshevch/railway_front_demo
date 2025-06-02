@@ -1,0 +1,29 @@
+.booking-success-content {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+}
+
+    .booking-success-content h1 {
+        font-size: 2em;
+        margin-bottom: 30px;
+        color: #2e7d32;
+    }
+
+.success-buttons button {
+    margin: 0 10px;
+    padding: 12px 24px;
+    font-size: 1em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #1976d2;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+    .success-buttons button:hover {
+        background-color: #1565c0;
+    }

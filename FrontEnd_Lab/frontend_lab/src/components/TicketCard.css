@@ -1,0 +1,35 @@
+.ticket-card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    max-width: 650px;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+    .ticket-card h3 {
+        margin: 0;
+        font-size: 20px;
+        color: #333;
+        font-weight: bold;
+    }
+
+    .ticket-card p {
+        margin: 6px 0;
+        font-size: 14px;
+        color: #444;
+    }
+
+    .ticket-card .status {
+        margin-top: 10px;
+        font-weight: bold;
+        color: green;
+    }
+
+        .ticket-card .status.returned {
+            color: red;
+        }

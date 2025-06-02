@@ -1,0 +1,45 @@
+.date-selector {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin: 10px 20px 20px 0;
+}
+
+.date-btn {
+    background: #f1f1f1;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+
+    .date-btn:hover {
+        background: #e0e0e0;
+    }
+
+    .date-btn.active {
+        background: #007bff;
+        color: white;
+    }
+.date-button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background 0.3s, color 0.3s;
+}
+
+    .date-button:hover {
+        background: #f0f0f0;
+    }
+
+    .date-button.active {
+        background-color: black;
+        color: white;
+        border-color: black;
+    }

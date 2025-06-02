@@ -1,0 +1,44 @@
+.user-tickets-page {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.tickets-header {
+    position: fixed;
+    top: 60px; /* нижче за navbar */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1001;
+    text-align: center;
+    color: white;
+    font-size: 3.0rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 8px 24px;
+    border-radius: 12px;
+    backdrop-filter: blur(6px);
+}
+
+.ticket-content {
+    flex: 1;
+    overflow-y: auto;
+    margin-top: 120px; /* компенсує navbar + заголовок */
+    padding: 32px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.ticket-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+}

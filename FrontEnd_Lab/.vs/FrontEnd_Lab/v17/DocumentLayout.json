@@ -1,0 +1,726 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\\FrontEnd_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\wagoncard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\wagoncard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\mappage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\mappage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\wagonlistpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\wagonlistpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\wagonlistpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\wagonlistpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\trainsearchform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\trainsearchform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\map.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\map.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\imagecarousel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\imagecarousel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\dateselector.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\dateselector.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\bookingsuccess.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\bookingsuccess.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\bookingsuccess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\bookingsuccess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\bookingpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\bookingpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\bookingpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\bookingpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\wagoncard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\wagoncard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\trainsearchform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\trainsearchform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\traincard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\traincard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\traincard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\traincard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\ticketcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\ticketcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\ticketcard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\ticketcard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\imagecarousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\imagecarousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\components\\dateselector.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\components\\dateselector.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\userticketspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\userticketspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\trainresults.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\trainresults.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\userticketspage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\userticketspage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\trainresults.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\trainresults.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\success.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\success.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\booking.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\booking.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\login.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\login.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\background5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\background5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\background4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\background4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\login2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\login2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\pages\\loginpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\pages\\loginpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\background1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\background1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|d:\\1\\frontend_lab\\frontend_lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{662862D6-733C-4A00-9CB9-D9261FE1F937}|FrontEnd_Lab\\frontend_lab.esproj|solutionrelative:frontend_lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapPage.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\MapPage.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\MapPage.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\MapPage.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\MapPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-22T10:16:24.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateSelector.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\DateSelector.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\DateSelector.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\DateSelector.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\DateSelector.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T14:48:19.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageCarousel.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\ImageCarousel.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\ImageCarousel.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\ImageCarousel.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\ImageCarousel.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T07:41:19.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\Navbar.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\Navbar.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA7wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T07:54:00.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WagonListPage.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\WagonListPage.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\WagonListPage.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\WagonListPage.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\WagonListPage.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T16:31:54.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainSearchForm.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainSearchForm.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\TrainSearchForm.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainSearchForm.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\TrainSearchForm.css",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:32:18.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WagonListPage.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\WagonListPage.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\WagonListPage.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\WagonListPage.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\WagonListPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T16:37:51.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WagonCard.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\WagonCard.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\WagonCard.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\WagonCard.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\WagonCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T16:38:33.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "map.png",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\map.png",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\map.png",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\map.png",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\map.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-22T10:21:20.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\App.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\App.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T07:07:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\HomePage.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\HomePage.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\HomePage.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\HomePage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:37:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingSuccess.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingSuccess.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\BookingSuccess.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingSuccess.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\BookingSuccess.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-19T07:49:20.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingSuccess.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingSuccess.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\BookingSuccess.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingSuccess.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\BookingSuccess.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T07:51:57.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingPage.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingPage.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\BookingPage.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingPage.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\BookingPage.jsx",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-19T06:53:22.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingPage.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingPage.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\BookingPage.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\BookingPage.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\BookingPage.css",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T07:11:59.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WagonCard.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\WagonCard.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\WagonCard.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\WagonCard.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\WagonCard.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T16:39:26.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrainSearchForm.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainSearchForm.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\TrainSearchForm.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainSearchForm.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\TrainSearchForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T07:29:40.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrainCard.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainCard.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\TrainCard.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainCard.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\TrainCard.css",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAALIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T10:53:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TrainCard.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainCard.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\TrainCard.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TrainCard.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\TrainCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T10:53:04.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketCard.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TicketCard.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\TicketCard.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TicketCard.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\TicketCard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T09:36:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketCard.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TicketCard.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\TicketCard.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\TicketCard.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\components\\TicketCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-19T09:28:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\Navbar.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\Navbar.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\Navbar.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\Navbar.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:54:25.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImageCarousel.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\ImageCarousel.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\ImageCarousel.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\ImageCarousel.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\ImageCarousel.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:46:02.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DateSelector.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\DateSelector.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\components\\DateSelector.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\components\\DateSelector.css",
+              "RelativeToolTip": "frontend_lab\\src\\components\\DateSelector.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T14:49:33.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\LoginPage.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\LoginPage.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\LoginPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T08:45:49.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserTicketsPage.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\UserTicketsPage.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\UserTicketsPage.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\UserTicketsPage.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\UserTicketsPage.jsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-19T09:27:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\main.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\main.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\main.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T06:58:03.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TrainResults.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\TrainResults.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\TrainResults.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\TrainResults.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\TrainResults.jsx",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T10:56:53.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserTicketsPage.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\UserTicketsPage.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\UserTicketsPage.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\UserTicketsPage.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\UserTicketsPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T09:31:34.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TrainResults.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\TrainResults.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\TrainResults.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\TrainResults.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\TrainResults.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T11:05:08.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "success.jpg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\success.jpg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\success.jpg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\success.jpg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\success.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-19T07:51:14.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "booking.jpg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\booking.jpg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\booking.jpg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\booking.jpg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\booking.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-19T07:08:43.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\App.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\App.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\App.css",
+              "RelativeToolTip": "frontend_lab\\src\\App.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:14:00.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\index.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\index.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\index.css",
+              "RelativeToolTip": "frontend_lab\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T07:13:57.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "login.png",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\login.png",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\login.png",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\login.png",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\login.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-18T11:49:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "login2.jpg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\login2.jpg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\login2.jpg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\login2.jpg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\login2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-18T11:49:03.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "background4.jpg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\background4.jpg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\background4.jpg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\background4.jpg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\background4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-18T13:22:24.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "background5.jpg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\background5.jpg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\background5.jpg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\background5.jpg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\background5.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-18T13:41:18.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\HomePage.jsx",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\HomePage.jsx",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\HomePage.jsx",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\HomePage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-18T07:09:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\index.html",
+              "RelativeDocumentMoniker": "frontend_lab\\index.html",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\index.html",
+              "RelativeToolTip": "frontend_lab\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T06:56:32.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginPage.css",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\LoginPage.css",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\pages\\LoginPage.css",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\pages\\LoginPage.css",
+              "RelativeToolTip": "frontend_lab\\src\\pages\\LoginPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-18T08:46:14.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "background1.jpg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\background1.jpg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\background1.jpg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\background1.jpg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\background1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-18T07:38:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "react.svg",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "frontend_lab\\src\\assets\\react.svg",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\src\\assets\\react.svg",
+              "RelativeToolTip": "frontend_lab\\src\\assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-18T07:34:48.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\1\\FrontEnd_Lab\\frontend_lab\\.gitignore",
+              "RelativeDocumentMoniker": "frontend_lab\\.gitignore",
+              "ToolTip": "D:\\1\\FrontEnd_Lab\\frontend_lab\\.gitignore",
+              "RelativeToolTip": "frontend_lab\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-18T07:07:59.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
