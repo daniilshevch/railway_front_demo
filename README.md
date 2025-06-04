@@ -1,0 +1,8 @@
+This is the front end part of the project of RailwaySystemCompany. 
+Project includes detailed railway system which allows to perform different operations related with 
+railway on user and admin level. This project implements a huge functionality on back-end server logical level
+including train assigning, ticket booking, route searching and much more.
+This front end part concentrates on user functionality including 
+the ability to search trains between different station on dates, booking tickets and watching
+general routes info such as schedule. 
+Project also includes websockets for updating seats availability in real time.
